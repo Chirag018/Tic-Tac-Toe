@@ -10,7 +10,7 @@ class _HomePageState extends State<HomePage> {
   AssetImage cross = AssetImage('images/cross.png');
   // ignore: prefer_const_constructors
   AssetImage circle = AssetImage('images/circle.png');
-  // ignore: prefer_const_constructors
+  // ignore: prefer_const_constructors .
   AssetImage edit = AssetImage('images/edit.png');
 
   bool isCross = true;
