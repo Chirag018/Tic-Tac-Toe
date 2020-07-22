@@ -229,13 +229,13 @@ class _HomePageState extends State<HomePage> {
               borderRadius: BorderRadius.circular(85.0),
             ),
           ),
-          // Container(
-          //   padding: EdgeInsets.all(20.0),
-          //   child: Text(
-          //     'Developed by Chirag Mehta',
-          //     style: TextStyle(fontSize: 15.0),
-          //   ),
-          // ),
+          Container(
+            padding: EdgeInsets.all(20.0),
+            child: Text(
+              'Developed by Chirag Mehta',
+              style: TextStyle(fontSize: 15.0),
+            ),
+          ),
         ],
       ),
     );
